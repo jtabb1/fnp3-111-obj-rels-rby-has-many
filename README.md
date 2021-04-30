@@ -1,11 +1,11 @@
 # Has Many Relationships
 
-## Objectives
+## Learning Goals
 
-- Describe the "has many" relationship between Ruby objects.
+- Describe the "has many" relationship between Ruby objects
 - Build classes that produce objects with a "belongs-to" and "has-many"
-  relationship.
-- Explain why we need to associate objects in this way.
+  relationship
+- Explain why we need to associate objects in this way
 
 ## Introduction
 
